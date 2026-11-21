@@ -19,6 +19,10 @@ cask "spec-studio" do
 
   zap trash: [
     "~/Library/Application Support/Spec Studio",
+    "~/Library/Caches/dev.local.spec-studio",
+    "~/Library/Caches/Spec Studio",
+    "~/Library/HTTPStorages/dev.local.spec-studio",
     "~/Library/Preferences/dev.local.spec-studio.plist",
+    "~/Library/WebKit/dev.local.spec-studio",
   ]
 end
