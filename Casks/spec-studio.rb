@@ -2,10 +2,10 @@ cask "spec-studio" do
   version "0.0.0"
   sha256 "0000000000000000000000000000000000000000000000000000000000000000"
 
-  url "https://github.com/spec-studio-app/spec-studio-site/releases/download/v#{version}/Spec-Studio-#{version}.dmg"
+  url "https://github.com/spec-studio-app/site/releases/download/v#{version}/Spec-Studio-#{version}.dmg"
   name "Spec Studio"
   desc "Spec-driven development with Claude Code"
-  homepage "https://spec-studio-app.github.io/spec-studio-site/"
+  homepage "https://spec-studio-app.github.io/site/"
 
   livecheck do
     url :url
