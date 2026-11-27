@@ -9,3 +9,5 @@ Homebrew tap for Spec Studio.
 
 The release pipeline of Spec Studio updates the cask here. The release pipeline of plugin-temporal writes `Formula/plugin-temporal.rb` at each release.
 
+plugin-temporal has no release yet: the formula comes with the first release, and `brew install spec-studio-app/tap/plugin-temporal` fails until then.
+
