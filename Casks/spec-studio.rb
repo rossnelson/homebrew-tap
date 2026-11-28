@@ -1,6 +1,6 @@
 cask "spec-studio" do
-  version "0.4.0"
-  sha256 "c16ad7c171368567ecb7eb5d35b8ad679ede1eab8c8b2ce51005289882ba8133"
+  version "0.5.0"
+  sha256 "bd75032f69ae0f418cb76703806d85b59d764ea4f93f699faece2090024541bd"
 
   url "https://github.com/spec-studio-app/site/releases/download/v#{version}/Spec-Studio-#{version}.dmg"
   name "Spec Studio"
